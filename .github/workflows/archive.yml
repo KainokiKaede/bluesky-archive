@@ -1,0 +1,76 @@
+name: Update and publish archive
+
+on:
+  schedule:
+    # 00:23 UTC = 09:23 Japan Standard Time, daily (may run late).
+    - cron: '23 0 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'config.json'
+      - 'scripts/**'
+      - 'site/**'
+      - 'tests/**'
+      - '.github/workflows/archive.yml'
+
+permissions:
+  contents: read
+
+# Serialize updates and deployments; do not interrupt a running import.
+concurrency:
+  group: bluesky-archive
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+      pages: read
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          # Start from the current branch tip, including any previous bot update.
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Test archive safety and static search
+        run: |
+          python -m unittest discover -s tests -v
+          node --test tests/search.test.mjs
+          node --check site/app.mjs
+      - name: Fetch all available posts and merge safely
+        run: python scripts/update_archive.py
+      - name: Commit archive to the repository
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site/data/archive.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update Bluesky archive'
+            git push
+          fi
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Upload static site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
