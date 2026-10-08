@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A personal, searchable archive of Bluesky posts.">
+  <meta name="referrer" content="no-referrer">
+  <title>Bluesky archive</title>
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="app.mjs"></script>
+</head>
+<body>
+  <a class="skip" href="#content">Skip to posts</a>
+  <header class="masthead">
+    <div class="brand"><span class="brand-mark" aria-hidden="true">b.</span><a href="#">Bluesky archive</a></div>
+    <span class="masthead-note">A little record of everyday life</span>
+  </header>
+  <div class="layout">
+    <aside>
+      <section class="profile" aria-label="Archive owner">
+        <span class="eyebrow">PERSONAL ARCHIVE</span>
+        <h1 id="owner">Your Bluesky,<br>collected.</h1>
+        <a id="profile-link" hidden></a>
+        <p id="description">Posts, thoughts, and conversations, all in one place.</p>
+        <p id="total" class="total">Ready for your first import</p>
+      </section>
+      <nav aria-label="Archive navigation">
+        <a class="all-posts" href="#">All posts <span aria-hidden="true">↗</span></a>
+        <details id="archive-nav" open>
+          <summary>Browse the archive</summary>
+          <div id="months" class="months"><p class="muted">Months appear after import.</p></div>
+        </details>
+      </nav>
+      <div class="sidebar-footer">
+        <p>All dates &amp; times in JST (UTC+9).</p>
+        <p id="updated">Not imported yet.</p>
+        <a href="data/archive.json" download="bluesky-archive.json">Download archive JSON ↓</a>
+      </div>
+    </aside>
+    <main id="content" tabindex="-1">
+      <form id="search-form" role="search">
+        <label for="query">Find a moment</label>
+        <div class="search-row">
+          <input id="query" name="q" type="search" placeholder="Search your posts…" autocomplete="off" aria-describedby="search-help">
+          <button type="submit">Search</button>
+        </div>
+        <p id="search-help">Search all post text, including Japanese. Exact, case-sensitive substring matches.</p>
+      </form>
+      <div class="timeline-heading">
+        <div><span class="eyebrow" id="view-label">THE TIMELINE</span><h2 id="heading">All posts</h2></div>
+        <div class="filters">
+          <label>Show<select id="kind"><option value="all">Posts &amp; replies</option><option value="posts">Posts only</option><option value="replies">Replies only</option></select></label>
+          <label>Order<select id="order"><option value="newest">Newest first</option><option value="oldest">Oldest first</option></select></label>
+        </div>
+      </div>
+      <nav id="days" class="days" aria-label="Days in selected month" hidden></nav>
+      <p id="status" role="status" aria-live="polite">Loading archive…</p>
+      <div id="posts"></div>
+      <button id="more" class="more" type="button" hidden>Show more posts</button>
+      <noscript><p class="notice">Please enable JavaScript to browse and search this archive. You can also download the JSON using the link on this page.</p></noscript>
+    </main>
+  </div>
+  <footer class="page-footer">A personal Bluesky archive · Public posts, quietly kept.</footer>
+</body>
+</html>
