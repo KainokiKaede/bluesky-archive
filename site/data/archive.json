@@ -7,8 +7,21 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-10-08T07:34:23Z",
+  "updated_at": "2026-10-09T06:21:06Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxeo2u5m2s2m",
+      "cid": "bafyreifjuaquiuebl7mk2dlpnxxihptkbwdoxejz7t2wbtmkeuxnimxhdm",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxeo2u5m2s2m",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-08T14:25:41.247Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "あっぱれおじゃる様！ 深夜の異常行動により、見事コンビニのマルチコピー機のソフトウェアをハングなされました！"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mx73cwkpus2l",
       "cid": "bafyreiehd6fjhzlemkv444fombh7dh7i2swksxkvb5mo2dtp56mxxc3gga",
