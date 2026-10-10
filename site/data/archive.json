@@ -7,8 +7,112 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-10-09T06:21:06Z",
+  "updated_at": "2026-10-10T06:02:57Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxi6e5icic2c",
+      "cid": "bafyreicwrnvkt7lpkvqvhd3b4sdo6vpqzt7jhkrkpw3eqx2hr3wy2e6xxq",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxi6e5icic2c",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-09T23:55:12.108Z",
+        "langs": [
+          "en"
+        ],
+        "text": "いいものを見ても昔ほど心を動かされなくなっている自分自身に大きく心を動かされている。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxi3sm5mi22m",
+      "cid": "bafyreiaiqwcwbzbq3wassorvstj4zxmfwpy2efpfp2xuaybsxhkjx3susy",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxi3sm5mi22m",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-09T23:09:36.023Z",
+        "langs": [
+          "en"
+        ],
+        "text": "駅夫の声も勇ましや"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxhtxvd6hc2c",
+      "cid": "bafyreihya3s72v77ttqwgedeg7ygof6xnrnh644s7oolgsldsmrnlez2gy",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxhtxvd6hc2c",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-09T20:49:23.481Z",
+        "langs": [
+          "en"
+        ],
+        "text": "南へ。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxhtfroukk2c",
+      "cid": "bafyreic5e2ubn5bcnojoojgvpqd67kjqsmkhqu37kbrnati7m45i2nmfqq",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxhtfroukk2c",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-09T20:39:15.689Z",
+        "langs": [
+          "en"
+        ],
+        "text": "ねむむんむ"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxgfdifhq22x",
+      "cid": "bafyreigc2dz4k7u4sx7wlisvigwz2ogmy7xbj6s6pxy53u6pf6k2vzgami",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxgfdifhq22x",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-09T06:54:46.712Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "YouTube video by NHKエデュケーショナル",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreia75hgoujkiqoqspdk6bi62rspyf5q4di3mpplcvuhufymycuyvle"
+              },
+              "mimeType": "image/jpeg",
+              "size": 132058
+            },
+            "title": "【おかあさんといっしょ】からだ☆ダンダン｜スペシャルステージ練習動画",
+            "uri": "https://www.youtube.com/watch?v=4ld10znrwpo"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.youtube.com/watch?v=4ld10znrwpo"
+              }
+            ],
+            "index": {
+              "byteEnd": 343,
+              "byteStart": 312
+            }
+          }
+        ],
+        "langs": [
+          "ja"
+        ],
+        "text": "みなさんはご存知ないかもしれませんが、NHKでは「生命は類人猿から現代人に進化し、ニンジャへとさらに進化していく」というニンジャ真実が毎日放送されているのです。これは大問題ですよ。おかしいと思いませんか？ あなた\n\nwww.youtube.com/watch?v=4ld1..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.youtube.com/watch?v=4ld10znrwpo",
+          "title": "【おかあさんといっしょ】からだ☆ダンダン｜スペシャルステージ練習動画",
+          "description": "YouTube video by NHKエデュケーショナル",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreia75hgoujkiqoqspdk6bi62rspyf5q4di3mpplcvuhufymycuyvle"
+        },
+        "$type": "app.bsky.embed.external#view"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxeo2u5m2s2m",
       "cid": "bafyreifjuaquiuebl7mk2dlpnxxihptkbwdoxejz7t2wbtmkeuxnimxhdm",
