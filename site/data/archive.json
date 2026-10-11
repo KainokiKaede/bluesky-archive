@@ -7,8 +7,94 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-10-10T06:02:57Z",
+  "updated_at": "2026-10-11T06:00:37Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxkzj5nyxk2d",
+      "cid": "bafyreiblrkzefbtd2qjwtbkcaq7rmjgvn7322zcrwang3jdfedr7va4vny",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxkzj5nyxk2d",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-11T03:06:30.570Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "",
+              "aspectRatio": {
+                "height": 3000,
+                "width": 4000
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreia5roaqnyayebgghejx3qcutxvxsiuyk5jlrvjvmysm6cqrhtgt6a"
+                },
+                "mimeType": "image/jpeg",
+                "size": 1982403
+              }
+            }
+          ]
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "アイン・オペラツィオンめし（FFがおすすめしていたもの）\nこの価格と調理の簡単さでこの味が食えるのはマジでコスパいいな"
+      },
+      "embed": {
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreia5roaqnyayebgghejx3qcutxvxsiuyk5jlrvjvmysm6cqrhtgt6a",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreia5roaqnyayebgghejx3qcutxvxsiuyk5jlrvjvmysm6cqrhtgt6a",
+            "alt": "",
+            "aspectRatio": {
+              "height": 3000,
+              "width": 4000
+            }
+          }
+        ],
+        "$type": "app.bsky.embed.images#view"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxkzghrxhk2d",
+      "cid": "bafyreifaot47bwnsfv74v6zu3jeydo35k7qvt3wq5g5ah7mdp35jjechpm",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxkzghrxhk2d",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-11T03:05:00.524Z",
+        "langs": [
+          "en"
+        ],
+        "text": "祝krm盛況！"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxkmqxawpk23",
+      "cid": "bafyreiemahnoaxdhognspfcgza55sbpnzoannqatzj4ewank2br2t3jsua",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxkmqxawpk23",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-10T23:18:13.631Z",
+        "langs": [
+          "en"
+        ],
+        "text": "ワンのオペよ！"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxjmx4dzak2b",
+      "cid": "bafyreignp6krhc5m4lbifuyqwdzjvtnqf35pw4w6ofqawhuctxbe5cqp2y",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxjmx4dzak2b",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-10T13:49:00.577Z",
+        "langs": [
+          "en"
+        ],
+        "text": "さすがにネミ"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxi6e5icic2c",
       "cid": "bafyreicwrnvkt7lpkvqvhd3b4sdo6vpqzt7jhkrkpw3eqx2hr3wy2e6xxq",
