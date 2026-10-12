@@ -7,8 +7,83 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-10-11T06:00:37Z",
+  "updated_at": "2026-10-12T06:11:09Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxm66pbt7k2m",
+      "cid": "bafyreifjckjmm6jmfaoet4e3t7dhvjf6nnhpv47ovced6warjzunyqsydy",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxm66pbt7k2m",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-11T14:02:48.398Z",
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreieyqamq3sre5y5dguza4vmub3aaepnwix5gajjh4axirexneu5v74",
+            "uri": "at://did:plc:jk4x5pj3ybsnngf6aamtpe3u/app.bsky.feed.post/3mxm5i7x2ms23"
+          },
+          "root": {
+            "cid": "bafyreib5l3tlw6c2dghuip65wrjwrjnziamzv7ea4h66ylochomb3izpbu",
+            "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxm5b2s4dc2n"
+          }
+        },
+        "text": "いつも遠さがハードルになる〜"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxm5b2s4dc2n",
+      "cid": "bafyreib5l3tlw6c2dghuip65wrjwrjnziamzv7ea4h66ylochomb3izpbu",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxm5b2s4dc2n",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-11T13:46:13.833Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "紅楼夢、行ったことないからいつか行きたい"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxm2kmdpm22d",
+      "cid": "bafyreibfwj6j4yspedt6gnqonfrc4mlvjb4d3pnevgcrgltvcp5fvd6zi4",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxm2kmdpm22d",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-11T12:57:53.001Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "現代西洋の個人主義的価値観と出産育児との相性が悪すぎなんだよな。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxm25qqg5s2d",
+      "cid": "bafyreiatywk72pz2lnh35yd2b533zvqe3swx6dtli42ityppuh2hbier2a",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxm25qqg5s2d",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-11T12:50:41.404Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "\"Bear and forget\" ができるようにならんと人口なんて回復せんでしょ。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxlzuewaic2d",
+      "cid": "bafyreiailixjyrgps2ngymoznhtxgacf2htgfjlkolj3uwngrvcapso7qq",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxlzuewaic2d",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-11T12:45:27.022Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "労働集約化が必要"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxkzj5nyxk2d",
       "cid": "bafyreiblrkzefbtd2qjwtbkcaq7rmjgvn7322zcrwang3jdfedr7va4vny",
