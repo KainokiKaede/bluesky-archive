@@ -7,8 +7,34 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-10-12T06:11:09Z",
+  "updated_at": "2026-10-13T06:54:10Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxputcvr3k2h",
+      "cid": "bafyreiggas3wb5y2ahqvthtrfrl46vtmovdjs235nkht7tkq4d5gec2hwy",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxputcvr3k2h",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-13T01:26:01.595Z",
+        "langs": [
+          "en"
+        ],
+        "text": "中央・総武線の秋葉原-新宿区間、トンネルあるんだな。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxplwfmmis2i",
+      "cid": "bafyreiesab6ec5euj2guctavevq3ez7cjuee752kryxjuqwlmwvhmqogai",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxplwfmmis2i",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-12T22:46:41.430Z",
+        "langs": [
+          "en"
+        ],
+        "text": "みんな社会復帰に苦しんでる"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxm66pbt7k2m",
       "cid": "bafyreifjckjmm6jmfaoet4e3t7dhvjf6nnhpv47ovced6warjzunyqsydy",
