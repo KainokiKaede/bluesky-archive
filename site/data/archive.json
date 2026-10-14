@@ -7,8 +7,161 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-10-13T06:54:10Z",
+  "updated_at": "2026-10-14T05:03:58Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxqnjmro6s2m",
+      "cid": "bafyreia2hpmmujn3lxgc2hinb45qb6zoyexbks3xpdtjcy6oczlwiueb7i",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxqnjmro6s2m",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-13T08:47:59.951Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "ワオキツネザルのワオって wow じゃなくて 輪尾 なのか……。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxqmxnobyc2m",
+      "cid": "bafyreig2i46hlfwz6dvjw5ppnlwznm6wd6kfbvjuqbhrawgelnxo3intxq",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxqmxnobyc2m",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-13T08:37:56.909Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "何物も同じままではいられない……。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxqmuargec2y",
+      "cid": "bafyreicyvgbc36wpqwbs66sadweg2j623d2olod63eiqxb3jxhm6laepf4",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxqmuargec2y",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-13T08:36:02.717Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "4月1日から、ラジオ第2で放送されている気象通報が、音声合成による自動放送に変わりました。",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreidoxltbhd6racnrechmtz7iccnkrawrvl276bq7rquijvg5y6wwoy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 189618
+            },
+            "title": "NHKラジオ第2放送の気象通報 自動放送化｜技研だより",
+            "uri": "https://www.nhk.or.jp/strl/publica/giken_dayori/133/1.html"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.nhk.or.jp/strl/publica/giken_dayori/133/1.html"
+              }
+            ],
+            "index": {
+              "byteEnd": 85,
+              "byteStart": 56
+            }
+          }
+        ],
+        "langs": [
+          "ja"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreibfeydfuwcbf6lup4dlbopzlyfsa5ajq57mromnfir4d3qmpeba4y",
+            "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxqmiuukmk2y"
+          },
+          "root": {
+            "cid": "bafyreibfeydfuwcbf6lup4dlbopzlyfsa5ajq57mromnfir4d3qmpeba4y",
+            "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxqmiuukmk2y"
+          }
+        },
+        "text": "いつのまにか自動音声になってるのか！\n\nwww.nhk.or.jp/strl/publica..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.nhk.or.jp/strl/publica/giken_dayori/133/1.html",
+          "title": "NHKラジオ第2放送の気象通報 自動放送化｜技研だより",
+          "description": "4月1日から、ラジオ第2で放送されている気象通報が、音声合成による自動放送に変わりました。",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreidoxltbhd6racnrechmtz7iccnkrawrvl276bq7rquijvg5y6wwoy"
+        },
+        "$type": "app.bsky.embed.external#view"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxqmiuukmk2y",
+      "cid": "bafyreibfeydfuwcbf6lup4dlbopzlyfsa5ajq57mromnfir4d3qmpeba4y",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxqmiuukmk2y",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-13T08:29:41.139Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "25年ぶりくらいに気象通報を聞いてる。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxqiwg3ys22y",
+      "cid": "bafyreifzzvvtmjipigy2eqbxgv6xdp3i2plui2zjutv4monbvcvaonnfyu",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxqiwg3ys22y",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-13T07:25:40.448Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "九州じゃんがら 秋葉原本店の隣、マルツ秋葉原本店の向かいで営業していた「居酒屋食事処 あだち」が、8月31日（月）に閉店。",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreihve5cywb2ct7yrdbfpaquhdkymoqqzyzgj6mtzuuu5e2bm77evia"
+              },
+              "mimeType": "image/jpeg",
+              "size": 950534
+            },
+            "title": "山盛りの定食で有名な「居酒屋食事処 あだち」が閉店、約50年の歴史に幕",
+            "uri": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2137425.html"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2137425.html"
+              }
+            ],
+            "index": {
+              "byteEnd": 112,
+              "byteStart": 68
+            }
+          }
+        ],
+        "langs": [
+          "ja"
+        ],
+        "text": "秋葉原のあだち（定食屋）、閉店していたのか。\n\nakiba-pc.watch.impress.co.jp/docs/news/ne..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2137425.html",
+          "title": "山盛りの定食で有名な「居酒屋食事処 あだち」が閉店、約50年の歴史に幕",
+          "description": "九州じゃんがら 秋葉原本店の隣、マルツ秋葉原本店の向かいで営業していた「居酒屋食事処 あだち」が、8月31日（月）に閉店。",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihve5cywb2ct7yrdbfpaquhdkymoqqzyzgj6mtzuuu5e2bm77evia"
+        },
+        "$type": "app.bsky.embed.external#view"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxputcvr3k2h",
       "cid": "bafyreiggas3wb5y2ahqvthtrfrl46vtmovdjs235nkht7tkq4d5gec2hwy",
