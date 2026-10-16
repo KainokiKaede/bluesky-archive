@@ -7,8 +7,86 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-10-15T04:52:42Z",
+  "updated_at": "2026-10-16T04:43:50Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxxqnujyp22r",
+      "cid": "bafyreidwxldhfx6g4he2pjjnsnveuve7w4xull35f6wx6ho6bdmxfgh4qm",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxxqnujyp22r",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-16T04:32:41.693Z",
+        "langs": [
+          "en"
+        ],
+        "text": "悲しくないのに涙が出る。片目のみ。痛みもある。ヤバいか？"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxvgcdw6u22u",
+      "cid": "bafyreihw7gv7gvaaztcz4ko6g4ci4nvpalpu4vut4h4acnf6ma2agp452u",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxvgcdw6u22u",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-15T06:21:58.279Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "「世界は人間なしに始まったし、人間なしに終るだろう」 レヴィ=ストロース「悲しき熱帯」の最終章に出てくる有名な言葉です。それでもヒトはこの世に生まれ、生き、病み、老い、死ぬ。それでもヒトそれぞれの生きざまは胸を打つ。巨匠いがらしみきおが贈る入魂の人生絵巻！",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreidcvxktcodefiiwaqqgeigdqd6hzcufairqbjsb2npskxz2vcxamy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 865710
+            },
+            "title": "第1回「鈴木広美 ０歳」 / 人間一生図巻 - いがらしみきお | webアクション",
+            "uri": "https://comic-action.com/episode/13933686331793023816"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://comic-action.com/episode/13933686331793023816"
+              }
+            ],
+            "index": {
+              "byteEnd": 159,
+              "byteStart": 127
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "1in8bやってる人はいがらしみきお『人間一生図巻』も読んでくだしあ。微妙な話もあるけど。\n\ncomic-action.com/episode/1393..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://comic-action.com/episode/13933686331793023816",
+          "title": "第1回「鈴木広美 ０歳」 / 人間一生図巻 - いがらしみきお | webアクション",
+          "description": "「世界は人間なしに始まったし、人間なしに終るだろう」 レヴィ=ストロース「悲しき熱帯」の最終章に出てくる有名な言葉です。それでもヒトはこの世に生まれ、生き、病み、老い、死ぬ。それでもヒトそれぞれの生きざまは胸を打つ。巨匠いがらしみきおが贈る入魂の人生絵巻！",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreidcvxktcodefiiwaqqgeigdqd6hzcufairqbjsb2npskxz2vcxamy"
+        },
+        "$type": "app.bsky.embed.external#view"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxvcfkmszc2s",
+      "cid": "bafyreieoroxdxw27kbdusxo6rdxvhebwemmykjektss6opduqmv26t6j2a",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxvcfkmszc2s",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-15T05:12:11.006Z",
+        "langs": [
+          "en"
+        ],
+        "text": "ぽにゃぷにぷ〜（発狂）"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxuq7ptw4c2m",
       "cid": "bafyreig252qhdfryib55bwwgd5aqfcesx6vjg22vkp5cr4knuii7jzta24",
