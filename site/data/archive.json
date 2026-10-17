@@ -7,8 +7,54 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-10-16T04:43:50Z",
+  "updated_at": "2026-10-17T04:41:21Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxycvujdvs2r",
+      "cid": "bafyreidyy4r3dl7stte3zj2phkpqmyzxzfb4zfmmz2xbggwhu5d2spppwq",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxycvujdvs2r",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-16T09:59:17.468Z",
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreihkho4h7iz4jxtrwdmnco4glhtbal2plfn3wosu7cdjwuhlwcqpqu",
+            "uri": "at://did:plc:4ippg4cmetqpx4ynfwyi7lop/app.bsky.feed.post/3mxybvbwcps2p"
+          },
+          "root": {
+            "cid": "bafyreidwxldhfx6g4he2pjjnsnveuve7w4xull35f6wx6ho6bdmxfgh4qm",
+            "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxxqnujyp22r"
+          }
+        },
+        "text": "和歌集"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxybf36jec2r",
+      "cid": "bafyreiebt4e4mvfqo3gvunha5yamqsfpyvxtn7jly2vmjzkrusupvkukfa",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mxybf36jec2r",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-16T09:32:00.285Z",
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreidwxldhfx6g4he2pjjnsnveuve7w4xull35f6wx6ho6bdmxfgh4qm",
+            "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxxqnujyp22r"
+          },
+          "root": {
+            "cid": "bafyreidwxldhfx6g4he2pjjnsnveuve7w4xull35f6wx6ho6bdmxfgh4qm",
+            "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxxqnujyp22r"
+          }
+        },
+        "text": "眼科に行ったら厨二病をうつされた（眼帯）"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxxqnujyp22r",
       "cid": "bafyreidwxldhfx6g4he2pjjnsnveuve7w4xull35f6wx6ho6bdmxfgh4qm",
