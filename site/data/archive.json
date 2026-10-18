@@ -7,8 +7,21 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-10-17T04:41:21Z",
+  "updated_at": "2026-10-18T04:46:43Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3my4qry6qhs25",
+      "cid": "bafyreibuf5oa2sjpm62kcnxzgxwv7ucu3tj5cqfrrpwgfixqwxxdtv64oe",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3my4qry6qhs25",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-18T04:18:18.432Z",
+        "langs": [
+          "en"
+        ],
+        "text": "逆に湿度が低い蓮メリもいいのでは"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mxycvujdvs2r",
       "cid": "bafyreidyy4r3dl7stte3zj2phkpqmyzxzfb4zfmmz2xbggwhu5d2spppwq",
