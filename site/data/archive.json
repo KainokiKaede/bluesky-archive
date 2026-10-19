@@ -7,8 +7,60 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-10-18T04:46:43Z",
+  "updated_at": "2026-10-19T04:55:16Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3my4uqfqgxc2e",
+      "cid": "bafyreiczgaavyitxpxtze6q4p2fkohyckun3bqt2tsgqef3c7xfoiajhhq",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3my4uqfqgxc2e",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-18T05:29:00.505Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "PO-80 record factory is a compact record cutter by yuri suzuki that lets you engrave and playback 5\" discs with ultra-analog lo-fi sound.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreihd4z5ckb5uw6awhfdbumwuz6yelps4h5iqht4ee7gxitrgnqajjq"
+              },
+              "mimeType": "image/jpeg",
+              "size": 334368
+            },
+            "title": "PO-80",
+            "uri": "https://teenage.engineering/products/po-80"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://teenage.engineering/products/po-80"
+              }
+            ],
+            "index": {
+              "byteEnd": 129,
+              "byteStart": 95
+            }
+          }
+        ],
+        "langs": [
+          "ja"
+        ],
+        "text": "teenage engineering, 大人の科学とのコラボ商品なんて出してるのか……。\n\nteenage.engineering/products/po-80"
+      },
+      "embed": {
+        "external": {
+          "uri": "https://teenage.engineering/products/po-80",
+          "title": "PO-80",
+          "description": "PO-80 record factory is a compact record cutter by yuri suzuki that lets you engrave and playback 5\" discs with ultra-analog lo-fi sound.",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihd4z5ckb5uw6awhfdbumwuz6yelps4h5iqht4ee7gxitrgnqajjq"
+        },
+        "$type": "app.bsky.embed.external#view"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3my4qry6qhs25",
       "cid": "bafyreibuf5oa2sjpm62kcnxzgxwv7ucu3tj5cqfrrpwgfixqwxxdtv64oe",
