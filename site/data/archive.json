@@ -7,8 +7,60 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-10-19T04:55:16Z",
+  "updated_at": "2026-10-20T05:01:43Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3my7wtnl3g22a",
+      "cid": "bafyreiefdm7xgonh7dvzwaxw3nwgp2l3senin65ya3kqduzsrsegl76ngi",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3my7wtnl3g22a",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-19T10:44:36.076Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "日本のおかず、できました。味の素「Cook Do® きょうの大皿」豚もやし用スタミナ醤油炒めをご紹介します。",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiaxrm2q4hxw7bvxxkjvrwxteesfopstauvl5opzhplerjy4tebtpe"
+              },
+              "mimeType": "image/jpeg",
+              "size": 254251
+            },
+            "title": "豚もやし用スタミナ醤油炒め｜商品ラインナップ｜【味の素KK】「Cook Do®きょうの大皿」",
+            "uri": "https://www.ajinomoto.co.jp/cookdo/oozara/lineup/butamoyashi.html"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.ajinomoto.co.jp/cookdo/oozara/lineup/butamoyashi.html"
+              }
+            ],
+            "index": {
+              "byteEnd": 67,
+              "byteStart": 32
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "これおいしかったです\n\nwww.ajinomoto.co.jp/cookdo/oozar..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.ajinomoto.co.jp/cookdo/oozara/lineup/butamoyashi.html",
+          "title": "豚もやし用スタミナ醤油炒め｜商品ラインナップ｜【味の素KK】「Cook Do®きょうの大皿」",
+          "description": "日本のおかず、できました。味の素「Cook Do® きょうの大皿」豚もやし用スタミナ醤油炒めをご紹介します。",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreiaxrm2q4hxw7bvxxkjvrwxteesfopstauvl5opzhplerjy4tebtpe"
+        },
+        "$type": "app.bsky.embed.external#view"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3my4uqfqgxc2e",
       "cid": "bafyreiczgaavyitxpxtze6q4p2fkohyckun3bqt2tsgqef3c7xfoiajhhq",
