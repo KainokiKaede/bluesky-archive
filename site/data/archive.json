@@ -7,8 +7,83 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-10-21T05:01:24Z",
+  "updated_at": "2026-10-22T05:03:28Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mygtnjuixs2w",
+      "cid": "bafyreigu42z7pcttvhwnm4m7kn35gnwgly6kfb3bvllb2xwl2qtso2styu",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mygtnjuixs2w",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-22T04:36:07.810Z",
+        "langs": [
+          "en"
+        ],
+        "text": "思いがけず海洋ゴミを産生してしまった（風にあおられて紙袋を橋の下に落とした）。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mygqnln3y22w",
+      "cid": "bafyreibgsgnhexppttjb7twtq4y6heih373dbeojckp7p56hf5qwg4uede",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mygqnln3y22w",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-22T03:42:28.441Z",
+        "langs": [
+          "en"
+        ],
+        "text": "白タク多くてもいいけど、取り締まらないなら開放してくれと思う。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mygqkkfmls2w",
+      "cid": "bafyreidbq5n3xzzytynnpqgz446af2jx2kpme3bnrm5dn7eslhw2dk4nty",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mygqkkfmls2w",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-22T03:40:46.480Z",
+        "langs": [
+          "en"
+        ],
+        "text": "白タク多すぎ"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3myfbiyipqk2v",
+      "cid": "bafyreibjhjuq6sofjyu66ss5r25w7owynjm6g63kj6hvjom5fg737xkuny",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3myfbiyipqk2v",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-21T13:38:48.290Z",
+        "langs": [
+          "ja"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreia4fkba6icnq2cemx3633noiy535mfm6rfo3pl27px3t6xdk6p4sy",
+            "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mych5r7euc2d"
+          },
+          "root": {
+            "cid": "bafyreia4fkba6icnq2cemx3633noiy535mfm6rfo3pl27px3t6xdk6p4sy",
+            "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mych5r7euc2d"
+          }
+        },
+        "text": "皮膚科に行ったが、発疹が（あったとしても）しょぼく、もう少しヤバくなったらまた来てくれと言われた。痛いは痛い。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3myesl3hkfs2v",
+      "cid": "bafyreihabfqrzagkhy2ipvjw33qjlkfurdzdl36vkvjkh3dfuixtir4kiq",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3myesl3hkfs2v",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-21T09:11:32.379Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "ChatGPT の rate limit が回復する5分前からPCの前で待機していて完全に AI 依存の悪循環（図省略）って感じ。"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mycm4edkhc2i",
       "cid": "bafyreic7y2dfkdpeinz3p4tyu7sa2tdxo2qfcbz7htvgx4syg7k5ndgfqu",
