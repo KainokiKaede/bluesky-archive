@@ -7,8 +7,34 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-10-22T05:03:28Z",
+  "updated_at": "2026-10-23T05:03:27Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3myiyuu2mn22v",
+      "cid": "bafyreialvufldzucuxalcskinrmce2vhxvuvljmsolhoyq6gnp3mi4nsxu",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3myiyuu2mn22v",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-23T01:15:01.564Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "もはやプログラマブルなハードウェアとその仕様を提供すればソフトは自分で作る（AIに作らせる）時代なんだよな。汎用的なプログラマブルハードウェアを作ったらけっこう売れそうだが……。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3myhctw7gpk25",
+      "cid": "bafyreialrshyva7fqqequyyxfz6c2bttbeovhpx3lk3wfjbusn7uyclrqy",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3myhctw7gpk25",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-22T09:08:08.204Z",
+        "langs": [
+          "en"
+        ],
+        "text": "皮膚科ってもう美容皮膚科しかなくなっちゃったのか！？"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mygtnjuixs2w",
       "cid": "bafyreigu42z7pcttvhwnm4m7kn35gnwgly6kfb3bvllb2xwl2qtso2styu",
