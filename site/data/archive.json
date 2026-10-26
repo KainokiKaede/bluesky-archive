@@ -7,8 +7,21 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-10-25T04:56:31Z",
+  "updated_at": "2026-10-26T04:59:38Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3myonxaa2k227",
+      "cid": "bafyreiaqa2sjqekcduvqsfz7lso2lyaw5pugqgsccruxtfr4myrunxuc7q",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3myonxaa2k227",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-25T07:15:28.702Z",
+        "langs": [
+          "en"
+        ],
+        "text": "ベビーカーではメロブも行けぬ"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3myodjj5wbs2z",
       "cid": "bafyreibzhrd3wxcdgvsgkljoaxiqhrlfom2qtlube2ioxfhvkuumhyl5de",
