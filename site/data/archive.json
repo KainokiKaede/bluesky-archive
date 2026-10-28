@@ -7,8 +7,34 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-10-27T05:17:03Z",
+  "updated_at": "2026-10-28T05:56:26Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3myugxqmwyc2c",
+      "cid": "bafyreigx2dkd7p5ihobusuiduizmejcnljvltu3xwwm5h7pavdesges6d4",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3myugxqmwyc2c",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-27T14:26:28.141Z",
+        "langs": [
+          "en"
+        ],
+        "text": "少し寒くなってきてオシマイの気配が漂ってきた。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3myugqoepic2c",
+      "cid": "bafyreieencmzawhumbfjudllrt7xagjlw656xni3tpkxoyulvgnutonzji",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3myugqoepic2c",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-27T14:22:30.887Z",
+        "langs": [
+          "en"
+        ],
+        "text": "みんみ"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3myonxaa2k227",
       "cid": "bafyreiaqa2sjqekcduvqsfz7lso2lyaw5pugqgsccruxtfr4myrunxuc7q",
@@ -24146,7 +24172,7 @@
           "replyCount": 0,
           "repostCount": 3,
           "quoteCount": 1,
-          "indexedAt": "2025-06-22T12:00:57.037Z",
+          "indexedAt": "2025-06-22T12:00:57.010Z",
           "embeds": [],
           "$type": "app.bsky.embed.record#viewRecord"
         },
@@ -36599,7 +36625,7 @@
             "replyCount": 0,
             "repostCount": 1,
             "quoteCount": 1,
-            "indexedAt": "2025-02-05T16:04:34.561Z",
+            "indexedAt": "2025-02-05T16:04:34.528Z",
             "embeds": [
               {
                 "media": {
@@ -36723,7 +36749,7 @@
                     "replyCount": 0,
                     "repostCount": 5,
                     "quoteCount": 1,
-                    "indexedAt": "2025-02-05T15:22:49.856Z",
+                    "indexedAt": "2025-02-05T15:22:49.824Z",
                     "$type": "app.bsky.embed.record#viewRecord"
                   }
                 },
