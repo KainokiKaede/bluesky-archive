@@ -7,8 +7,60 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-10-30T06:01:53Z",
+  "updated_at": "2026-10-31T05:57:13Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mz5cflurmc2f",
+      "cid": "bafyreie5qmiunmy4pufseu52awnhbx6tzws4ahf3mbpec7lspeofce4sti",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mz5cflurmc2f",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-31T02:58:41.854Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "フライドオニオンと勘違いしてフライドガーリックをドバドバかけたまぜそばを食べてしまい、社会的な致命傷を負った。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mz4w4rdafk2y",
+      "cid": "bafyreidgkc66wzzsgjvmv244myxkedn5cjvihnxcg7e6vaaztl3lh3ulyq",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mz4w4rdafk2y",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-30T23:19:00.676Z",
+        "langs": [
+          "en"
+        ],
+        "text": "駅夫の声も勇ましや"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mz4ogtejjs2f",
+      "cid": "bafyreihz3d7n4r6l5blwrpwfi3hrs6oe3oqhe5zlfdycg5ujau4pfwj2oi",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mz4ogtejjs2f",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-30T21:01:28.426Z",
+        "langs": [
+          "en"
+        ],
+        "text": "西へ。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mz4mz46opc27",
+      "cid": "bafyreia22fy2eu76nnt3no3yeguzrtrsmfjl2wfp2q7rmy3uz3rhehopsi",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mz4mz46opc27",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-30T20:35:54.168Z",
+        "langs": [
+          "en"
+        ],
+        "text": "ねみみんみ"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3myugxqmwyc2c",
       "cid": "bafyreigx2dkd7p5ihobusuiduizmejcnljvltu3xwwm5h7pavdesges6d4",
