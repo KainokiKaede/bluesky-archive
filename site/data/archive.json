@@ -7,8 +7,73 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-11-02T06:26:59Z",
+  "updated_at": "2026-11-03T06:59:27Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzczbkcqxk2p",
+      "cid": "bafyreibczftj3pweicz6ewdvc2yfalwba2hna4xybpjrmwgu2jkec7gurm",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mzczbkcqxk2p",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-02T09:31:20.751Z",
+        "langs": [
+          "en"
+        ],
+        "text": "そもそも改行できる時点で（過激派）"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzcsdro72c2w",
+      "cid": "bafyreiexj7e73fei6earbjoqei42gadunjsdrlbu2gjdu2et624a2foghm",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mzcsdro72c2w",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-02T07:27:19.381Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "ふるさと納税「YAMAP プレミアム」：https://r.yamap.com/76372福岡市に本社を構えるヤマップは「地球とつながるよろこび。」を経営理念に掲げ、登山地図アプリ「YAMAP」を通じ...",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreib6gzio2bwbpqukl7b6lwikbc5bqdfdpgeb7sdcahmnufm2vweyai"
+              },
+              "mimeType": "image/jpeg",
+              "size": 891973
+            },
+            "title": "株式会社ヤマップ / YAMAP | ふるさと納税のお礼の品に「YAMAPプレミアム」が登場　地元・福岡から安全登山を支援",
+            "uri": "https://corporate.yamap.co.jp/news/vlo19GWQ"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://corporate.yamap.co.jp/news/vlo19GWQ"
+              }
+            ],
+            "index": {
+              "byteEnd": 360,
+              "byteStart": 325
+            }
+          }
+        ],
+        "langs": [
+          "ja"
+        ],
+        "text": "ふるさと納税の季節ですね（挨拶）\nふるさと納税にはなんでもあって、たとえばYAMAPプレミアム 1年間利用権があります。登山によく行くかた、いかがでしょうか（ふるさとチョイスのサイトが落ちていて今すぐは寄付できませんが……）。\n\ncorporate.yamap.co.jp/news/vlo19GWQ"
+      },
+      "embed": {
+        "external": {
+          "uri": "https://corporate.yamap.co.jp/news/vlo19GWQ",
+          "title": "株式会社ヤマップ / YAMAP | ふるさと納税のお礼の品に「YAMAPプレミアム」が登場　地元・福岡から安全登山を支援",
+          "description": "ふるさと納税「YAMAP プレミアム」：https://r.yamap.com/76372福岡市に本社を構えるヤマップは「地球とつながるよろこび。」を経営理念に掲げ、登山地図アプリ「YAMAP」を通じ...",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreib6gzio2bwbpqukl7b6lwikbc5bqdfdpgeb7sdcahmnufm2vweyai"
+        },
+        "$type": "app.bsky.embed.external#view"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzcofrdyd22p",
       "cid": "bafyreihmlhdgt3fxzgqqheleqdyndedafvdbgxudoq3gkxq3jzzdefzinu",
