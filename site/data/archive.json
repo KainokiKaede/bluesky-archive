@@ -7,8 +7,34 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-11-03T06:59:27Z",
+  "updated_at": "2026-11-04T06:42:18Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzhiipzgsk2r",
+      "cid": "bafyreidyebxkc5rrfglmk7qtd7wnjglw3mtx4ghocnkco5inh5sirwyr2q",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mzhiipzgsk2r",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-04T04:14:26.699Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "民主主義ってなんだかんだで割と良い社会制度なんだな"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzfvlkg76s2r",
+      "cid": "bafyreidrokowf7jzmaho6x7pxkzqdkgnyft3n5zkcyutqotz2lfs3ylfiu",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mzfvlkg76s2r",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-03T13:03:20.655Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "TotKを細々とやっていて、終盤まで来たと思うんだけれど、これもう鉄人兵団エンドにするしかなくね？"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzczbkcqxk2p",
       "cid": "bafyreibczftj3pweicz6ewdvc2yfalwba2hna4xybpjrmwgu2jkec7gurm",
