@@ -7,8 +7,35 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-11-04T06:42:18Z",
+  "updated_at": "2026-11-05T07:00:27Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzib3hajks2z",
+      "cid": "bafyreiegc3ja2q2yrqhw5vusbj4vixthr7yejp5wv263zqmmayt4hbyerm",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mzib3hajks2z",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-04T11:34:24.830Z",
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#tag",
+                "tag": "PonPonPain"
+              }
+            ],
+            "index": {
+              "byteEnd": 36,
+              "byteStart": 25
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "おなかいたいにゃ #PonPonPain"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzhiipzgsk2r",
       "cid": "bafyreidyebxkc5rrfglmk7qtd7wnjglw3mtx4ghocnkco5inh5sirwyr2q",
