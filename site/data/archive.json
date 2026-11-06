@@ -7,8 +7,145 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-11-05T07:00:27Z",
+  "updated_at": "2026-11-06T07:00:16Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzmhldx56c2f",
+      "cid": "bafyreibqq3pph2pck6dxi7b363y5ame5m3ggbapq5w4clhvatejav3rhxm",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mzmhldx56c2f",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-06T03:41:19.654Z",
+        "langs": [
+          "ja"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreiaez2gdymy63ejdyaracihfeedadxbcpt2x3aj5orjemv5epceloe",
+            "uri": "at://did:plc:mk3vvdze2qkgh5w4uyhkwmni/app.bsky.feed.post/3mzmgksrea22a"
+          },
+          "root": {
+            "cid": "bafyreidmmmhbffvds7djzebc5sbeenilzogntggt2rur5fwh32lisq55oi",
+            "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzmefvj2ok2z"
+          }
+        },
+        "text": "（ ・ワ・）"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzmg3vjd5k2f",
+      "cid": "bafyreihwci5falmfdbp5s3mfgeyekriiwaxzj2ru4hdljexfjqzfonjp24",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mzmg3vjd5k2f",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-06T03:14:47.462Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "みなさん感染症に注意して楽しんできてくださいけまね"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzmg2uk7i22f",
+      "cid": "bafyreiey4siceeqhri5wmeqs7qzirdqjrtg46akq225p6dnlgycwqljxaa",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mzmg2uk7i22f",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-06T03:14:12.888Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "どう頑張っても京都は行けない運命だったのだ（当日突発的に行く選択肢も消えた）"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzmfziywjc2z",
+      "cid": "bafyreihn5bulke5cgbw25dt4orcoodz5ycqc5ervtau3cdmmxxoh2obxcq",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mzmfziywjc2z",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-06T03:13:27.233Z",
+        "langs": [
+          "ja"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreidmmmhbffvds7djzebc5sbeenilzogntggt2rur5fwh32lisq55oi",
+            "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzmefvj2ok2z"
+          },
+          "root": {
+            "cid": "bafyreidmmmhbffvds7djzebc5sbeenilzogntggt2rur5fwh32lisq55oi",
+            "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzmefvj2ok2z"
+          }
+        },
+        "text": "Baloxavir 40mg po"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzmefvj2ok2z",
+      "cid": "bafyreidmmmhbffvds7djzebc5sbeenilzogntggt2rur5fwh32lisq55oi",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mzmefvj2ok2z",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-06T02:44:35.513Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "Flu A (+)"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzkn2ly2yc2p",
+      "cid": "bafyreicnhzmy7lm4pi2wcchyvh5wdg5gw6gdaiacxegryjkgl2ifzgyacq",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mzkn2ly2yc2p",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-05T10:14:00.621Z",
+        "langs": [
+          "en"
+        ],
+        "text": "おしりたんていとオセルタミビルで踏める。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzkd6diwq22p",
+      "cid": "bafyreigkkdyclwwihgjknocqgsbd2c5k2uqyjciklmrikvij6kxb3k5lky",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mzkd6diwq22p",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-05T07:17:08.535Z",
+        "langs": [
+          "en"
+        ],
+        "text": "今からでも遅くはないから人類は狩猟採集に戻れ"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzkclaa2ic2r",
+      "cid": "bafyreifrioc4dnivseauu2xm6445mntxucgzrqvyicafzocnui3pwiktjq",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mzkclaa2ic2r",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-05T07:06:27.565Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "はにゃ〜ん"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzkcevzcz22r",
+      "cid": "bafyreifp4pqzdb54dmb2l6ipmgwkwmborfmuh5q5acmx6vfgih6lyb4tsi",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mzkcevzcz22r",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-05T07:02:55.532Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "商業活動なんかするからこんなことになるんだよ"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzib3hajks2z",
       "cid": "bafyreiegc3ja2q2yrqhw5vusbj4vixthr7yejp5wv263zqmmayt4hbyerm",
