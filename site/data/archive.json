@@ -7,8 +7,98 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-11-09T06:53:20Z",
+  "updated_at": "2026-11-10T07:30:03Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzwkhbya2s2h",
+      "cid": "bafyreifdfjwkoinn35d65gjqnewgqqn3zqmsyewzmo57ie3rxokh53jn44",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mzwkhbya2s2h",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-10T03:59:21.982Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "東日本大震災の津波を連想させるラベルが貼られたビールが、ヨーロッパで販売されています。販売元に取材しました。【画像】「津波」を“爽快”と表現したラベル",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreie24uncxuicazxgj372ktscjhpyw4zswpkiycr7z347ivv27d3zte"
+              },
+              "mimeType": "image/jpeg",
+              "size": 296927
+            },
+            "title": "欧州のビールラベルに「フグシマ」「爽快な津波」　震災想起させ販売元が謝罪（テレビ朝日系（ANN）） - Yahoo!ニュース",
+            "uri": "https://news.yahoo.co.jp/articles/bc9a983316eed60afc7c4f545468df8b2a13513e"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#tag",
+                "tag": "Yahooニュース"
+              }
+            ],
+            "index": {
+              "byteEnd": 203,
+              "byteStart": 185
+            }
+          },
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://news.yahoo.co.jp/articles/bc9a983316eed60afc7c4f545468df8b2a13513e"
+              }
+            ],
+            "index": {
+              "byteEnd": 236,
+              "byteStart": 204
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "ちゃんとエンドニムを尊重してて\n\n欧州のビールラベルに「フグシマ」「爽快な津波」　震災想起させ販売元が謝罪(テレビ朝日系（ANN）)\n#Yahooニュース news.yahoo.co.jp/articles/bc9..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://news.yahoo.co.jp/articles/bc9a983316eed60afc7c4f545468df8b2a13513e",
+          "title": "欧州のビールラベルに「フグシマ」「爽快な津波」　震災想起させ販売元が謝罪（テレビ朝日系（ANN）） - Yahoo!ニュース",
+          "description": "東日本大震災の津波を連想させるラベルが貼られたビールが、ヨーロッパで販売されています。販売元に取材しました。【画像】「津波」を“爽快”と表現したラベル",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreie24uncxuicazxgj372ktscjhpyw4zswpkiycr7z347ivv27d3zte"
+        },
+        "$type": "app.bsky.embed.external#view"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzw4ab5l3s2h",
+      "cid": "bafyreigu3ek6ribll5g3szhmhndzrqskr2vywkgwec6brccqfrsnaddgzu",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mzw4ab5l3s2h",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-09T23:44:53.841Z",
+        "langs": [
+          "en"
+        ],
+        "text": "ゴッホの絵画は症状か？"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzugygjdcs2t",
+      "cid": "bafyreiasfwejep7sl6k76v5pi245al3g4d2olxg2c4ztkrw4ujhldyzfb4",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3mzugygjdcs2t",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-09T07:52:02.718Z",
+        "langs": [
+          "en"
+        ],
+        "text": "セブンイレブンのカレーパンうますぎる"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzpz65mcms2o",
       "cid": "bafyreicfiskq4pweyj3xdihbksa75y2ga7fwwz4cl6qeyn37stoo77r7ee",
