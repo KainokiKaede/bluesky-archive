@@ -7,8 +7,99 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-11-12T07:25:53Z",
+  "updated_at": "2026-11-13T06:57:22Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n26dqdpqek2k",
+      "cid": "bafyreif5b7vpxyampe6fvmgqmruquqluucwta42duvfsc4cqeg6mpcek4e",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n26dqdpqek2k",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-13T06:20:27.506Z",
+        "langs": [
+          "en"
+        ],
+        "text": "タイムラインにときおり流れてくる数学の問題が年々簡単になってきていて、これが老化か……と思っている。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n267hvdnhs2k",
+      "cid": "bafyreibhegqgkxdtceyolbm5nirn4t6536v2m7n55iohijeflbmczkzyiu",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n267hvdnhs2k",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-13T05:04:09.028Z",
+        "langs": [
+          "en"
+        ],
+        "text": "（折口信夫）とでも書いておけばいいのかもしれないが嘘は書けない。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n267fxkd2k2k",
+      "cid": "bafyreib5nbrwcbw7cwv7vf2mn35q5okyakqs7ez2ppc6jk2rbnxyawqvta",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n267fxkd2k2k",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-13T05:03:04.232Z",
+        "langs": [
+          "en"
+        ],
+        "text": "すべての習俗は奇習である。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n25o4rly522t",
+      "cid": "bafyreifte33vjpif3mypjfbs2t7pin3imfwprkazkhsu44rjouqqqeppdi",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n25o4rly522t",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-12T23:53:42.396Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "11月のうた「マッチョ マッチョ」はこちらで公開中です！",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreihzin3rw2f72lkdh4ecv6vopu2pkl63zffowlgsnpspzunqag3ioe"
+              },
+              "mimeType": "image/jpeg",
+              "size": 985491
+            },
+            "title": "11月のうた「マッチョ マッチョ」 - 番組からのお知らせ - おかあさんといっしょ - NHK",
+            "uri": "https://www.nhk.jp/g/ts/ZPW9W9XN42/blog/bl/plLar1eke9/bp/pl1EJyWG4l/"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.nhk.jp/g/ts/ZPW9W9XN42/blog/bl/plLar1eke9/bp/pl1EJyWG4l/"
+              }
+            ],
+            "index": {
+              "byteEnd": 386,
+              "byteStart": 360
+            }
+          }
+        ],
+        "langs": [
+          "ja"
+        ],
+        "text": "ダルマやクルマやコグマがみんなマッチョになっていく歌が頭から離れない。NHKによるマチズモの喧伝に対し我々は断固としてNOと言わなければならない！ うっ、だれだお前たちはうわやめくぁｗせｄｒｆｔｇｙふじこマッチョマッチョチョチョチョ こぐマッチョ！\n\nwww.nhk.jp/g/ts/ZPW9W9X..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.nhk.jp/g/ts/ZPW9W9XN42/blog/bl/plLar1eke9/bp/pl1EJyWG4l/",
+          "title": "11月のうた「マッチョ マッチョ」 - 番組からのお知らせ - おかあさんといっしょ - NHK",
+          "description": "11月のうた「マッチョ マッチョ」はこちらで公開中です！",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihzin3rw2f72lkdh4ecv6vopu2pkl63zffowlgsnpspzunqag3ioe"
+        },
+        "$type": "app.bsky.embed.external#view"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzwkhbya2s2h",
       "cid": "bafyreifdfjwkoinn35d65gjqnewgqqn3zqmsyewzmo57ie3rxokh53jn44",
