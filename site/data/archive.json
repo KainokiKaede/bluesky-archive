@@ -7,8 +7,175 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-11-13T06:57:22Z",
+  "updated_at": "2026-11-14T06:44:32Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n2ai4kokzc2j",
+      "cid": "bafyreihj56aodl3bweoyumf7pjfxv5sr6yt7tb7wg3ga2x7xyiohbwhroq",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n2ai4kokzc2j",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-14T02:44:11.904Z",
+        "langs": [
+          "en"
+        ],
+        "text": "北へ。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n27dkxqx5c2q",
+      "cid": "bafyreihitfvqlx5z2qrpuct4sarb4dcpr4j3ytofdamgi43aiy7elsyloi",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n27dkxqx5c2q",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-13T15:50:06.930Z",
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreicflphk2xrug5uxfztnfymqxesfud4qzfp6245n4fk5dwq4dzitu4",
+            "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n27cnti2sc2q"
+          },
+          "root": {
+            "cid": "bafyreidrokowf7jzmaho6x7pxkzqdkgnyft3n5zkcyutqotz2lfs3ylfiu",
+            "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzfvlkg76s2r"
+          }
+        },
+        "text": "あと初めて行った×印でライネル5連戦させられたのはさすがにビビった。これは自分の運が悪すぎるんだが……。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n27cnti2sc2q",
+      "cid": "bafyreicflphk2xrug5uxfztnfymqxesfud4qzfp6245n4fk5dwq4dzitu4",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n27cnti2sc2q",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-13T15:33:49.366Z",
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreifw7a57dxed6nmn57dnovwl6h47ahvfjwlu7k54gkjnbkzkx3dgoi",
+            "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n27cmt4i4s2q"
+          },
+          "root": {
+            "cid": "bafyreidrokowf7jzmaho6x7pxkzqdkgnyft3n5zkcyutqotz2lfs3ylfiu",
+            "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzfvlkg76s2r"
+          }
+        },
+        "text": "あと細身ケモがエロすぎるし褐色合法ロリがエロすぎる。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n27cmt4i4s2q",
+      "cid": "bafyreifw7a57dxed6nmn57dnovwl6h47ahvfjwlu7k54gkjnbkzkx3dgoi",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n27cmt4i4s2q",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-13T15:33:15.431Z",
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreibrwjutbwjkntwzoj6z532vtiy5ixwbexxlv2minsv2zi54zw6w3m",
+            "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n27b3lugj22q"
+          },
+          "root": {
+            "cid": "bafyreidrokowf7jzmaho6x7pxkzqdkgnyft3n5zkcyutqotz2lfs3ylfiu",
+            "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzfvlkg76s2r"
+          }
+        },
+        "text": "クリアタイム95時間（まぁ地底探索とかして、かなりのんびりやっていた）。クリア順はリト→ゲルド→ゾーラ→ゴロン→魂→MS→泪→コーガ→EDって感じだった。魂→MSの流れはやばかったですね。泪を後回しにしてたんでいっそう……。\n総じて前作に続いてありえん名作でした（いまさら）。やり込み要素がたくさんあるのでもうちょっとやりたいね。ローメイとか結局どれにも行ってないしな……。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n27b3lugj22q",
+      "cid": "bafyreibrwjutbwjkntwzoj6z532vtiy5ixwbexxlv2minsv2zi54zw6w3m",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n27b3lugj22q",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-13T15:05:43.661Z",
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreidrokowf7jzmaho6x7pxkzqdkgnyft3n5zkcyutqotz2lfs3ylfiu",
+            "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzfvlkg76s2r"
+          },
+          "root": {
+            "cid": "bafyreidrokowf7jzmaho6x7pxkzqdkgnyft3n5zkcyutqotz2lfs3ylfiu",
+            "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3mzfvlkg76s2r"
+          }
+        },
+        "text": "「そうはならんやろ」「なっとるやろがい！」エンドだった……。でもあんたが一番の功労者だよ。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n26wenq2v22q",
+      "cid": "bafyreibld6xgjayk3wvdhtncygy3lqoy4jc5b5hvn2yselpylm65x5g7te",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n26wenq2v22q",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-13T11:53:56.444Z",
+        "langs": [
+          "en"
+        ],
+        "text": "入ったラーメン屋の店員さん、注文を取りにきたが「ボールペンがない！」と再度奥に引っ込んでしまったり、おつりのお札がラーメンの汁で濡れていたりしていて、強く生きてくれという感情が惹起された。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n26va5k75s2q",
+      "cid": "bafyreidn5ctj67gslk4g5aer3solycut7m22igcgwfkaw3rhga2ubg4nem",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n26va5k75s2q",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-13T11:33:31.516Z",
+        "langs": [
+          "en"
+        ],
+        "text": "人生をトロ火で燃やしている"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n26tsac6hk2q",
+      "cid": "bafyreiexmztvwyqehxgxsoqp2sdjgj2qqvhifqbuppyp6632ywltqjpy4y",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n26tsac6hk2q",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-13T11:07:50.894Z",
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreicng62g6ymjlfs6xst2dbanyjlko2valckeqxclu2bygcddvr5ssa",
+            "uri": "at://did:plc:4ippg4cmetqpx4ynfwyi7lop/app.bsky.feed.post/3n26rkycfl22i"
+          },
+          "root": {
+            "cid": "bafyreif5b7vpxyampe6fvmgqmruquqluucwta42duvfsc4cqeg6mpcek4e",
+            "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n26dqdpqek2k"
+          }
+        },
+        "text": "「このボタンを押すと何が起こるかわかりますか」「はい。私に致死量の数学トリビアが投与されます」"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n26plpl6ac2q",
+      "cid": "bafyreiavf7z73w3ev4i5lw754mtrmjsfs3oopardi2ragogttx4ncxhp2u",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n26plpl6ac2q",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-13T09:52:37.068Z",
+        "langs": [
+          "en"
+        ],
+        "text": "はい"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n26dqdpqek2k",
       "cid": "bafyreif5b7vpxyampe6fvmgqmruquqluucwta42duvfsc4cqeg6mpcek4e",
