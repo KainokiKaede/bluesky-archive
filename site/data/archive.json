@@ -7,8 +7,47 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-11-15T06:49:47Z",
+  "updated_at": "2026-11-16T06:49:05Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n2ftfpjux22u",
+      "cid": "bafyreiexwpwnngwqieajbtui7bxyoonpbdcq67m3ab4y4i6icjcfsqqu3a",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n2ftfpjux22u",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-16T05:49:28.837Z",
+        "langs": [
+          "en"
+        ],
+        "text": "奇声しか発せないようになったらオシマイ\nこうなったら引導を渡してくれって若いころに誰かに頼んでおくべきだった"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n2ftdwphik2u",
+      "cid": "bafyreigymvlau2h3rl53uhns7cacdl3yyefoqyi76z3zukh35jlduetpg4",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n2ftdwphik2u",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-16T05:48:29.250Z",
+        "langs": [
+          "en"
+        ],
+        "text": "うぉぉぉぉゴガギググ"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n2fr2mpomk2u",
+      "cid": "bafyreia6fyk2iikmfqb5nq26ghv3yx3pnvggdvhw5mbgoojlkgupq37n64",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n2fr2mpomk2u",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-16T05:07:29.297Z",
+        "langs": [
+          "en"
+        ],
+        "text": "みゃー（バグった）"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n2clkubb7s2x",
       "cid": "bafyreifb7qt7ve4ooxbz7w42tabocus2xbyzfbp753ur74bwwzetn4ik2u",
