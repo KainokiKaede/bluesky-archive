@@ -7,8 +7,21 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-11-16T06:49:05Z",
+  "updated_at": "2026-11-17T08:08:33Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n2i4xzbug226",
+      "cid": "bafyreia7qirxyp6rtklvasxaiiafcr6rq3ypzltxmo6u6llcneiy5tx46y",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n2i4xzbug226",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-17T03:46:06.190Z",
+        "langs": [
+          "en"
+        ],
+        "text": "肺病やみ"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n2ftfpjux22u",
       "cid": "bafyreiexwpwnngwqieajbtui7bxyoonpbdcq67m3ab4y4i6icjcfsqqu3a",
