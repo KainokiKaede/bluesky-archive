@@ -7,8 +7,125 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-11-19T07:39:07Z",
+  "updated_at": "2026-11-20T07:29:43Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n2peiv2ri22w",
+      "cid": "bafyreidoduwbf24lqeda4rnyhfpsxf3gziai4lsfhdm2k73at63mz5wg3y",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n2peiv2ri22w",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-20T00:49:26.552Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "愛知県長久手市のふるさと納税でもらえる返礼品「令和9年分 給与所得の源泉徴収票 Tシャツ（M）」です。この返礼品は、ふるなびから寄附することで自治体から受け取れます。",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreico3gcosuxhlevxxjipwjo376em6g3nf5tmlao27sqrmuqdkjl76y"
+              },
+              "mimeType": "image/jpeg",
+              "size": 658980
+            },
+            "title": "令和9年分 給与所得の源泉徴収票 Tシャツ（M） | 愛知県長久手市 | ふるさと納税サイト「ふるなび」",
+            "uri": "https://furunavi.jp/product_detail.aspx?pid=2124302"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://furunavi.jp/product_detail.aspx?pid=2124302"
+              }
+            ],
+            "index": {
+              "byteEnd": 171,
+              "byteStart": 144
+            }
+          }
+        ],
+        "langs": [
+          "ja"
+        ],
+        "text": "ふるさと納税にはなんでもあって、たとえば給与所得の源泉徴収票がプリントされたTシャツがあります。\n\nfurunavi.jp/product_deta..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://furunavi.jp/product_detail.aspx?pid=2124302",
+          "title": "令和9年分 給与所得の源泉徴収票 Tシャツ（M） | 愛知県長久手市 | ふるさと納税サイト「ふるなび」",
+          "description": "愛知県長久手市のふるさと納税でもらえる返礼品「令和9年分 給与所得の源泉徴収票 Tシャツ（M）」です。この返礼品は、ふるなびから寄附することで自治体から受け取れます。",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreico3gcosuxhlevxxjipwjo376em6g3nf5tmlao27sqrmuqdkjl76y"
+        },
+        "$type": "app.bsky.embed.external#view"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n2p5nlwy6k27",
+      "cid": "bafyreihpo47fc2qwvemblaljnxleho4yspvepxtinxxtqbtng6dkh6wble",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n2p5nlwy6k27",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-19T22:46:48.570Z",
+        "langs": [
+          "en"
+        ],
+        "text": "NHKで無限にマッチョのプロパガンダ流してるんだよな"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n2o3sid6xk27",
+      "cid": "bafyreihju5obqrkhhzsrdagqruhsraomjje3nycy7sfich2n27kfg37sli",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n2o3sid6xk27",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-19T12:41:05.323Z",
+        "langs": [
+          "en"
+        ],
+        "text": "I believe it is peace for our time..."
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n2nnv3tfas2t",
+      "cid": "bafyreifv2ojgs6mgj47y56ldz6lzwervv7jip27mhcwfvjo55qmhspqscq",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n2nnv3tfas2t",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-19T08:32:00.503Z",
+        "langs": [
+          "en"
+        ],
+        "text": "川っ崎のルフロ〜ン"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n2nnrvzwxs2t",
+      "cid": "bafyreidwaly56ceyfzy56ilflzlwgmgasny5amulncnn3zvpadf5j36pzi",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n2nnrvzwxs2t",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-19T08:30:13.754Z",
+        "langs": [
+          "en"
+        ],
+        "text": "「また仏に逢えると思ったから」"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n2nkx4ht622k",
+      "cid": "bafyreiddxwdvtnveji2onbsajgp3h32nczwd6w6isgrdee45jotjdgk6h4",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n2nkx4ht622k",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-19T07:39:27.055Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "C109アーリーチケット5000円？ 5000円かぁ……。"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n2i4xzbug226",
       "cid": "bafyreia7qirxyp6rtklvasxaiiafcr6rq3ypzltxmo6u6llcneiy5tx46y",
