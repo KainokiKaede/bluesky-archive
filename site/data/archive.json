@@ -7,8 +7,70 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-11-20T07:29:43Z",
+  "updated_at": "2026-11-21T07:26:16Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n2sh5fmm6c2o",
+      "cid": "bafyreieyw2supfhbora3moa3mlxyii552fnfvmkhrvjtjxmy27u7dxsutm",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n2sh5fmm6c2o",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-21T06:14:41.699Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "中国のM-VAVEという楽器メーカーが販売している小型FMシンセ「FM-1」が、ちょっとした話題になっています。きっかけはユーザーによるカスタムファームウェアの開発です。この秋からソフトウェア改造が流行FM-1はアリエクなどを覗くと、だいた",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiep6xrezdh3xeier3jcvshsuqswdyximdgno27ewmc7dq6dqqu2ry"
+              },
+              "mimeType": "image/jpeg",
+              "size": 172357
+            },
+            "title": "1万円のシンセをAIで魔改造。電子楽器のファームウェア開放が始まった | ギズモード・ジャパン",
+            "uri": "https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/"
+              }
+            ],
+            "index": {
+              "byteEnd": 65,
+              "byteStart": 35
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreialvufldzucuxalcskinrmce2vhxvuvljmsolhoyq6gnp3mi4nsxu",
+            "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3myiyuu2mn22v"
+          },
+          "root": {
+            "cid": "bafyreialvufldzucuxalcskinrmce2vhxvuvljmsolhoyq6gnp3mi4nsxu",
+            "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3myiyuu2mn22v"
+          }
+        },
+        "text": "世界が追いついてきた。\n\nwww.gizmodo.jp/article/0b05..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/",
+          "title": "1万円のシンセをAIで魔改造。電子楽器のファームウェア開放が始まった | ギズモード・ジャパン",
+          "description": "中国のM-VAVEという楽器メーカーが販売している小型FMシンセ「FM-1」が、ちょっとした話題になっています。きっかけはユーザーによるカスタムファームウェアの開発です。この秋からソフトウェア改造が流行FM-1はアリエクなどを覗くと、だいた",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreiep6xrezdh3xeier3jcvshsuqswdyximdgno27ewmc7dq6dqqu2ry"
+        },
+        "$type": "app.bsky.embed.external#view"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n2peiv2ri22w",
       "cid": "bafyreidoduwbf24lqeda4rnyhfpsxf3gziai4lsfhdm2k73at63mz5wg3y",
