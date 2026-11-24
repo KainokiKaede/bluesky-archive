@@ -7,8 +7,96 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-11-23T07:53:33Z",
+  "updated_at": "2026-11-24T10:06:20Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n327rcst5224",
+      "cid": "bafyreiaabzihrvcus4flbkf54ded3vaf75bw2aey4x4lx7ioyg4ampxz2y",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n327rcst5224",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-24T08:23:57.820Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "旅したいスね"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n322ndaiic25",
+      "cid": "bafyreifozeurgnhnh6oetghwxoqmxy7dejln4zfzuts5uqonaqzfrsijxi",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n322ndaiic25",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-24T06:52:15.341Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "個人情報はもはや完全に漏洩しているだろうからその点はもう気にしてない（麻痺）"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n322ltf2ms25",
+      "cid": "bafyreibjxfyhrk2xkuwmvts2mr5zdenciaomt3gert4nopur52ftycfod4",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n322ltf2ms25",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-24T06:51:25.159Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "いつも使っている複数のウェブサービスが不正アクセスによりダウンしていて困る〜。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n2z75mmux22r",
+      "cid": "bafyreidu7kew3tilatbwapbryooj3tmqfzbzll3auqo62yftpy2w63yo5y",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n2z75mmux22r",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-23T22:40:17.279Z",
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreiew45ecof2m5yvner4gmt37sqllslicy4pljhnez6rc7i442vnoqe",
+            "uri": "at://did:plc:ozqu5dgl4ho6stqvwfqcskx3/app.bsky.feed.post/3n2yev4ipas2z"
+          },
+          "root": {
+            "cid": "bafyreial3lg6ija76afkk2dsqnv6d5uosoujddsaxbcddhp2muveo3jq3a",
+            "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n2y7n7dusk2e"
+          }
+        },
+        "text": "釣りのオタクおじさんだ"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n2y7n7dusk2e",
+      "cid": "bafyreial3lg6ija76afkk2dsqnv6d5uosoujddsaxbcddhp2muveo3jq3a",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n2y7n7dusk2e",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-23T13:16:20.490Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "ついに指ぬきグローブを買ってしまってオタクおじさんの階段を着々と登りつつある。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n2y76ezpn22s",
+      "cid": "bafyreiekuqqlrwlkhidegtdhuqlijw7bswqjtgrycocosoniqt4e7tw4lu",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n2y76ezpn22s",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-23T13:08:03.133Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "もうどうなってもいいや of the dead"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n2sh5fmm6c2o",
       "cid": "bafyreieyw2supfhbora3moa3mlxyii552fnfvmkhrvjtjxmy27u7dxsutm",
