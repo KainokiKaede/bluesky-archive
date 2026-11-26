@@ -7,8 +7,112 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-11-25T08:51:26Z",
+  "updated_at": "2026-11-26T08:37:36Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n37a5prtf22y",
+      "cid": "bafyreid77zhhsp4b4eeepuz2xpyvmnz4g7bf3teorcbsyjmv5ie7pi5aqu",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n37a5prtf22y",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-26T08:14:12.765Z",
+        "langs": [
+          "en"
+        ],
+        "text": "核家族共働き家庭主体での人口維持は人間の能力的に無理ということなんだよな。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n374rpyc3c2y",
+      "cid": "bafyreiem2l66zllcflyi2o4w5vieiylvlkrqlr6tdomnx6to3w5zg3rcdq",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n374rpyc3c2y",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-26T07:13:49.097Z",
+        "langs": [
+          "en"
+        ],
+        "text": "ずっと移動を続けているこばしゅさんの腰が心配"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n36zvekets2g",
+      "cid": "bafyreieehqy3lp4e5b452ihich2a7ztpyyk7mfv72d75zvn5jcbyjjt7ha",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n36zvekets2g",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-26T06:22:10.100Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "OpenAIは11月24日、社内の未公表モデルが作成したとする数学のプレプリントを公開した。n×n行列の積の効率を表す指数ωが「ちょうど9/4」と証明したと主張している。上界は既知で、今回は下界を示",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiftereefaclr3rjoeociiyxatfir3mxiw66tclqnpwpdxvzronc3i"
+              },
+              "mimeType": "image/jpeg",
+              "size": 172460
+            },
+            "title": "OpenAI、AIが書いた数学原稿で「行列積の限界は9/4乗」と主張　長年の難問に決着か（ビジネス＋IT） - Yahoo!ニュース",
+            "uri": "https://news.yahoo.co.jp/articles/632b7a2f21e03cd1b98fa0012fad2b9eb229663d"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://news.yahoo.co.jp/articles/632b7a2f21e03cd1b98fa0012fad2b9eb229663d"
+              }
+            ],
+            "index": {
+              "byteEnd": 172,
+              "byteStart": 140
+            }
+          }
+        ],
+        "langs": [
+          "ja"
+        ],
+        "text": "リーマン予想やP≠NPも凄いけど、地味に行列積の指数の下界についての主張もビッグニュースじゃね？\n\nnews.yahoo.co.jp/articles/632..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://news.yahoo.co.jp/articles/632b7a2f21e03cd1b98fa0012fad2b9eb229663d",
+          "title": "OpenAI、AIが書いた数学原稿で「行列積の限界は9/4乗」と主張　長年の難問に決着か（ビジネス＋IT） - Yahoo!ニュース",
+          "description": "OpenAIは11月24日、社内の未公表モデルが作成したとする数学のプレプリントを公開した。n×n行列の積の効率を表す指数ωが「ちょうど9/4」と証明したと主張している。上界は既知で、今回は下界を示",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreiftereefaclr3rjoeociiyxatfir3mxiw66tclqnpwpdxvzronc3i"
+        },
+        "$type": "app.bsky.embed.external#view"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n36vuxk3ts2g",
+      "cid": "bafyreiddurnfxfk2mhixjeywalcopxnkq4kj6r6rfpiv6c4u4y3kl5bilm",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n36vuxk3ts2g",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-26T05:10:21.491Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "C109はリストバンド制になって初めての3日間開催なのか……。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n36fdeuu2k2y",
+      "cid": "bafyreicidnowzfvbn5rl6cy3u53slwjdejr3luum475cgsoe6recs5c6nq",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n36fdeuu2k2y",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-26T00:14:11.621Z",
+        "langs": [
+          "en"
+        ],
+        "text": "ゃってぃくきもち"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n327rcst5224",
       "cid": "bafyreiaabzihrvcus4flbkf54ded3vaf75bw2aey4x4lx7ioyg4ampxz2y",
