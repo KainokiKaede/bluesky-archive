@@ -7,8 +7,112 @@
     "description": "かいのきかえで です。同人サークルUNVALANCE代表/音屋/DTM/東方/LifeHack/UT(OB)/陸路世界一周済/1988",
     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreihhxqlj4tnkr6zhrexqe2ajfsdev3ouyp2nbp5d7l5tdtwumcpxgu"
   },
-  "updated_at": "2026-11-26T08:37:36Z",
+  "updated_at": "2026-11-27T08:48:49Z",
   "posts": [
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n3brmrsbo22c",
+      "cid": "bafyreifbbhoeh5oyp2cp3ot3ltctwx6evj72f2bobqmeavwxsn3h3dt5gu",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n3brmrsbo22c",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-27T08:32:11.280Z",
+        "langs": [
+          "ja"
+        ],
+        "text": "ねむい"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n3befhjivk24",
+      "cid": "bafyreidiz7yp2owa7hmjziqr7qfrf6bkltgrwipttccjcq3qmn23dt3m2u",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n3befhjivk24",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-27T04:35:26.979Z",
+        "langs": [
+          "en"
+        ],
+        "text": "推しは推せるときに推せ案件だ。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n3b2c2z3x22l",
+      "cid": "bafyreiax2qtu6cv44hmjqvl7admnq6oveu2dom2saco35tlgkobiqirktu",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n3b2c2z3x22l",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-27T01:34:35.778Z",
+        "langs": [
+          "en"
+        ],
+        "text": "スキー10年くらいしてない気がする。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n37p6ftwqc2o",
+      "cid": "bafyreieq65rb3w6m3jpqjojb444del5ygohylzyjuanhjnn5qy2tcirnay",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n37p6ftwqc2o",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-26T12:43:02.029Z",
+        "langs": [
+          "en"
+        ],
+        "text": "これはもしや枕崎まで……。"
+      }
+    },
+    {
+      "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n37ogodrdk2o",
+      "cid": "bafyreiglqxdrbhhgezcmlu2mpm6huwkxkc5lhya6gvmooecl7bsuxgajmm",
+      "url": "https://bsky.app/profile/did:plc:6dqwcno63e7jsrgjj3rdcbtm/post/3n37ogodrdk2o",
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-26T12:29:45.627Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "この記事に対して24件のコメントがあります。注目されているコメントは「社章の入ったメダルとか置き時計などの記念品を貰った人は、皆さんなぜかあちらの方に行かれますね。」、「そこで社長が「時計もデザイン難しいし、金一封、片手ぐらいで良いか？」って言ってくれたらな…」、「“会社ともに時を刻む”という主旨なので、腕時計かバームクーヘンが定番。置時計も悪くないがもらっても困るだろ。」、「弊社は腕時計で、せめ...",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibogdpohcbwpg3hc6nbmwatxcliunfnvcqrxmgf6247f6llm5kg3u"
+              },
+              "mimeType": "image/jpeg",
+              "size": 368819
+            },
+            "title": "『会社に勤続10年の記念品がほしいという要望を出しつつ「何でもいい、置き時計とか」と言ったら、後輩たちから非難轟々だった→記念品って何をもらうの？』へのコメント",
+            "uri": "https://b.hatena.ne.jp/entry/s/togetter.com/li/2775234"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://b.hatena.ne.jp/entry/s/togetter.com/li/2775234"
+              }
+            ],
+            "index": {
+              "byteEnd": 89,
+              "byteStart": 59
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "めりとさんホッテントリに上がってて笑う\n\nb.hatena.ne.jp/entry/s/toge..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://b.hatena.ne.jp/entry/s/togetter.com/li/2775234",
+          "title": "『会社に勤続10年の記念品がほしいという要望を出しつつ「何でもいい、置き時計とか」と言ったら、後輩たちから非難轟々だった→記念品って何をもらうの？』へのコメント",
+          "description": "この記事に対して24件のコメントがあります。注目されているコメントは「社章の入ったメダルとか置き時計などの記念品を貰った人は、皆さんなぜかあちらの方に行かれますね。」、「そこで社長が「時計もデザイン難しいし、金一封、片手ぐらいで良いか？」って言ってくれたらな…」、「“会社ともに時を刻む”という主旨なので、腕時計かバームクーヘンが定番。置時計も悪くないがもらっても困るだろ。」、「弊社は腕時計で、せめ...",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6dqwcno63e7jsrgjj3rdcbtm/bafkreibogdpohcbwpg3hc6nbmwatxcliunfnvcqrxmgf6247f6llm5kg3u"
+        },
+        "$type": "app.bsky.embed.external#view"
+      }
+    },
     {
       "uri": "at://did:plc:6dqwcno63e7jsrgjj3rdcbtm/app.bsky.feed.post/3n37a5prtf22y",
       "cid": "bafyreid77zhhsp4b4eeepuz2xpyvmnz4g7bf3teorcbsyjmv5ie7pi5aqu",
